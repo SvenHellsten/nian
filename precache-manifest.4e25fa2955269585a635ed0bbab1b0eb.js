@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5b88ae3e064a809792ed6abc7c1eaf6",
+    "revision": "39b442f82f33c0c4bf6256a118cd85ff",
     "url": "/nian/index.html"
   },
   {
-    "revision": "6ee4f9f8991272eb8d08",
+    "revision": "931bad8be4841d0d8871",
     "url": "/nian/static/css/main.f95c0f22.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nian/static/js/2.58fc6c33.chunk.js"
   },
   {
-    "revision": "6ee4f9f8991272eb8d08",
-    "url": "/nian/static/js/main.b018787f.chunk.js"
+    "revision": "931bad8be4841d0d8871",
+    "url": "/nian/static/js/main.0cca14f4.chunk.js"
   },
   {
     "revision": "5371837dd30a98ccf654",
